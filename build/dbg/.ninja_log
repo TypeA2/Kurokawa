@@ -1,0 +1,13 @@
+# ninja log v5
+10	246	7482848287919691	Kurokawa_autogen/timestamp	b65411ec7aed875
+247	1647	7482848302322130	CMakeFiles/Kurokawa.dir/Kurokawa_autogen/mocs_compilation.cpp.obj	8cb772eeeddd04e5
+139	2756	7482842469067769	CMakeFiles/Kurokawa.dir/kurokawa.cpp.obj	585f3710c5839141
+10	246	7482848287919691	Kurokawa_autogen/mocs_compilation.cpp	b65411ec7aed875
+1135	1224	7482834284327655	CMakeFiles/Kurokawa.dir/Kurokawa.rc.res	5ca3ee66b252151f
+10	246	7482848287919691	D:/Projects/C++/Kurokawa/build/dbg/Kurokawa_autogen/timestamp	b65411ec7aed875
+10	246	7482848287919691	D:/Projects/C++/Kurokawa/build/dbg/Kurokawa_autogen/mocs_compilation.cpp	b65411ec7aed875
+136	2759	7482842469102774	CMakeFiles/Kurokawa.dir/main.cpp.obj	1c0c3a1365944f29
+1666	1806	7482848303631588	Kurokawa.exe	8d339659afe69c09
+253	299	7482848288887686	CMakeFiles/Kurokawa.dir/src/Kurokawa.rc.res	fe6a89dee0506ec
+249	1660	7482848302460455	CMakeFiles/Kurokawa.dir/src/main.cpp.obj	840e8a8ab6858210
+251	1666	7482848302515525	CMakeFiles/Kurokawa.dir/src/kurokawa.cpp.obj	b9257b17837819f4

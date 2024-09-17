@@ -1,0 +1,5 @@
+D:/Projects/C++/Kurokawa/build/dbg/CMakeFiles/Kurokawa.dir
+D:/Projects/C++/Kurokawa/build/dbg/CMakeFiles/edit_cache.dir
+D:/Projects/C++/Kurokawa/build/dbg/CMakeFiles/rebuild_cache.dir
+D:/Projects/C++/Kurokawa/build/dbg/CMakeFiles/Kurokawa_autogen_timestamp_deps.dir
+D:/Projects/C++/Kurokawa/build/dbg/CMakeFiles/Kurokawa_autogen.dir

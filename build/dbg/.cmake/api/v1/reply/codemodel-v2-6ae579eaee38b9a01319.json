@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Kurokawa",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Kurokawa::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Kurokawa-Debug-19444fe5b2aadb2db06c.json",
+					"name" : "Kurokawa",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Kurokawa_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Kurokawa_autogen-Debug-c6f0ebdfedcc3aece472.json",
+					"name" : "Kurokawa_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Kurokawa_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Kurokawa_autogen_timestamp_deps-Debug-7ef8170ff0b7a2e713ab.json",
+					"name" : "Kurokawa_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Projects/C++/Kurokawa/build/dbg",
+		"source" : "D:/Projects/C++/Kurokawa"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
